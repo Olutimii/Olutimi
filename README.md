@@ -1,0 +1,2 @@
+# Olutim
+ First Django Project
